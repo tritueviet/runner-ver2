@@ -1,0 +1,7 @@
+MIDlet-1: RunnerVer2,/48x48.png,RunTilldie
+MIDlet-Name: RunnerVer2
+MIDlet-Permissions: javax.microedition.io.Connector.https, javax.microedition.io.Connector.http
+MIDlet-Vendor: Vu Van Tuong
+MIDlet-Version: 2.0
+MicroEdition-Configuration: CLDC-1.1
+MicroEdition-Profile: MIDP-2.0
